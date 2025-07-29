@@ -2,10 +2,10 @@
 home: true
 layout: Blog
 icon: house
-title: Blog Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: Welcome to my blog!
-tagline: You can put your slogan here
+title: Home
+# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroText: YouMinX
+tagline:  Make Life Better！
 heroFullScreen: true
 projects:
   - icon: folder-open
